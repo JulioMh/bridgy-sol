@@ -1,0 +1,8 @@
+/Users/kilojulio/dev/kilojulio/dogstar/dogstar-bridge-solana/target/debug/deps/libspl_token_group_interface-918498e42eb02de5.rmeta: /Users/kilojulio/.cargo/registry/src/index.crates.io-6f17d22bba15001f/spl-token-group-interface-0.2.3/src/lib.rs /Users/kilojulio/.cargo/registry/src/index.crates.io-6f17d22bba15001f/spl-token-group-interface-0.2.3/src/error.rs /Users/kilojulio/.cargo/registry/src/index.crates.io-6f17d22bba15001f/spl-token-group-interface-0.2.3/src/instruction.rs /Users/kilojulio/.cargo/registry/src/index.crates.io-6f17d22bba15001f/spl-token-group-interface-0.2.3/src/state.rs
+
+/Users/kilojulio/dev/kilojulio/dogstar/dogstar-bridge-solana/target/debug/deps/spl_token_group_interface-918498e42eb02de5.d: /Users/kilojulio/.cargo/registry/src/index.crates.io-6f17d22bba15001f/spl-token-group-interface-0.2.3/src/lib.rs /Users/kilojulio/.cargo/registry/src/index.crates.io-6f17d22bba15001f/spl-token-group-interface-0.2.3/src/error.rs /Users/kilojulio/.cargo/registry/src/index.crates.io-6f17d22bba15001f/spl-token-group-interface-0.2.3/src/instruction.rs /Users/kilojulio/.cargo/registry/src/index.crates.io-6f17d22bba15001f/spl-token-group-interface-0.2.3/src/state.rs
+
+/Users/kilojulio/.cargo/registry/src/index.crates.io-6f17d22bba15001f/spl-token-group-interface-0.2.3/src/lib.rs:
+/Users/kilojulio/.cargo/registry/src/index.crates.io-6f17d22bba15001f/spl-token-group-interface-0.2.3/src/error.rs:
+/Users/kilojulio/.cargo/registry/src/index.crates.io-6f17d22bba15001f/spl-token-group-interface-0.2.3/src/instruction.rs:
+/Users/kilojulio/.cargo/registry/src/index.crates.io-6f17d22bba15001f/spl-token-group-interface-0.2.3/src/state.rs:
